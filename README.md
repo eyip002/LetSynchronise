@@ -1,3 +1,10 @@
+---
+
+> **Warning**
+> This repository has been moved to https://github.com/uniba-swt/LetSynchronise
+
+----
+
 # LetSynchronise
 LetSynchronise is extensible, web-based, open-source (GPL3) framework for modelling, 
 simulating, analysing, and optimising LET-based systems. It
